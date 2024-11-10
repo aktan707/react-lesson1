@@ -16,9 +16,14 @@ function App() {
       {text} WORLD
 
       <Button text="OK" className="green-btn"/>
-      <Button text="SEND" className="black-btn"/>
-
-      <Button text="DELETE" className="red-btn"></Button>
+      <Button text="Dark" className="black-btn"/>
+      <Button text="Primary" className="blue-btn"></Button>
+      <Button text="secondary" className="gray-btn"></Button>
+      <Button text="Danger" className="red-btn"></Button>
+      <Button text="Warning" className="yellow-btn"></Button>
+      <Button text="Info" className="aqua-btn"></Button>
+      <Button text="Light" className="white-btn"></Button>
+      <Button text="Link" className="transparent-btn"></Button>
 
     </div>
   )

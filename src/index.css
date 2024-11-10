@@ -15,6 +15,30 @@
   background-color: black;
   color: white;
 }
+.blue-btn {
+  background-color: blue;
+  color: white;
+}
+.gray-btn {
+  background-color: gray;
+  color: white;
+}
+.yellow-btn {
+  background-color: yellow;
+  color: black;
+}
+.aqua-btn {
+  background-color: aqua;
+  color: white;
+}
+.white-btn {
+  background-color: white;
+  color: black;
+}
+.transparent-btn {
+  background-color: transparent;
+  color: blue;
+}
 
 button {
   border: 0;
